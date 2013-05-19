@@ -1,0 +1,3 @@
+Escribe una reseña y calificanos en {rating_url}
+
+{shop_url}

@@ -1,0 +1,8 @@
+
+RewriteEngine on
+Options +Indexes
+IndexOptions -FancyIndexing
+RewriteCond %{HTTP_HOST} ^libreriahb\.com\.ar$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.libreriahb\.com\.ar$
+RewriteRule ^/?$ "http\:\/\/www\.libreriahb\.com\.ar\/carrito\/" [R=301,L]
+

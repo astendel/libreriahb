@@ -1,0 +1,4 @@
+El sitio siguiente {shop_url} desactivó/eliminó su módulo Twenga.
+País {shop_country}.
+
+Responder a {trader_email}.

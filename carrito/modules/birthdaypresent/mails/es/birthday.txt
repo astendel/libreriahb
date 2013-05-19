@@ -1,0 +1,6 @@
+Hola {firstname} {lastname},
+
+{shop_name} le desea un feliz cumpleaños y le ofrece un regalo.
+Una sorpresa le espera ... Registrese ahora en su cuenta para ver su bono de descuento. Y aprovechelo!
+
+{shop_url}

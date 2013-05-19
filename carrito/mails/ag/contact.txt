@@ -1,0 +1,1 @@
+Hola {firstname} {lastname}.rnrnHas recibido un mensaje de un cliente desde tu tienda: {shop_name}rnrnDetalles del mensaje:rnrnEmail: {email}rnrnMensaje:rnrn{message}rnrnrnrn{shop_url} rn

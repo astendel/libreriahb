@@ -1,0 +1,1 @@
+{firstname} {lastname}, gracias por comprar en {shop_name}!rnrnTiene {nbProducts} producto(s) para descargar.rnrnEste es el acceso directo:rn{virtualProducts}rnrnrnPuede revisar este recibo y descargar su factura desde la sección "Seguimiento de Pedido" de su cuenta pulsando "Mi cuenta" en nuestra web.rnrnrn{shop_url} rn

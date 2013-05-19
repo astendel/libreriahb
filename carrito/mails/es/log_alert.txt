@@ -1,0 +1,11 @@
+Hola,
+		
+Nueva alerta de log
+	
+Desafortunadamente, un nuevo log de mensaje de alerta ha sido grabado.
+
+Puede verificar esto en su Back office > Tools > Log on our Website.
+		
+{shop_name} - {shop_url}
+
+{shop_url}

@@ -1,0 +1,15 @@
+	Hola {firstname} {lastname},
+		
+	Su cuenta de invitado se convirtió en una cuenta de cliente:
+	
+	Dirección de E-mail: {email}
+	Contraseña: {passwd}
+	
+	
+	Puede acceder a su cuenta desde nuestro sitio: {shop_url}
+
+	Por favor tenga cuidado al compartir estos datos de inicio de sesión con otras personas.
+
+
+
+	{shop_url}
